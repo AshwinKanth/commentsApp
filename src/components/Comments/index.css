@@ -1,0 +1,63 @@
+.app-container {
+    background-color: #ffffff;
+    height: 100vh;
+  }
+  .bg-container {
+    display: flex;
+    margin-top: 60px;
+    justify-content: space-around;
+  }
+  .form-container {
+  }
+  .heading {
+    font-size: 40px;
+    color: black;
+    font-family: 'Roboto';
+  }
+  .description {
+    font-size: 15px;
+    color: #475569;
+    font-family: 'Roboto';
+  }
+  .input {
+    height: 30px;
+    width: 300px;
+    font-size: 13px;
+    margin-bottom: 20px;
+  }
+  
+  .comment-box {
+    height: 80px;
+    width: 300px;
+    font-size: 13px;
+    margin-bottom: 20px;
+  }
+  .button {
+    background-color: #0284c7;
+    height: 30px;
+    width: 120px;
+    color: #ffffff;
+    outline: none;
+    border-width: 0px;
+    border-radius: 5px;
+  }
+  .break-line {
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-top: 20px;
+  }
+  .comments-container {
+    margin-left: 130px;
+  }
+  .count {
+    color: #ffffff;
+    background-color: #0284c7;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    margin-right: 10px;
+  }
+  .count-container {
+    display: flex;
+    align-items: center;
+  }
